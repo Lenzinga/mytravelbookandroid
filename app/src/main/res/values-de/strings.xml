@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MyTravelBook</string>
+    <string name="entry_details">Eintragsdetails</string>
+    <string name="back">Zurück</string>
+    <string name="publish">Veröffentlichen</string>
+    <string name="timestamp">Zeitstempel: %s</string>
+    <string name="title">Titel</string>
+    <string name="text">Text</string>
+    <string name="location">Standort</string>
+    <string name="save">Speichern</string>
+    <string name="pick_images_from_gallery">Bilder aus der Galerie auswählen</string>
+    <string name="images_in_db">Bilder in der Datenbank:</string>
+    <string name="no_images">Noch keine Bilder.</string>
+    <string name="newly_picked_images">Neu ausgewählte Bilder (noch nicht gespeichert):</string>
+    <string name="publish_error">Veröffentlichungsfehler</string>
+    <string name="ok">OK</string>
+    <string name="my_trips">Meine Reisen</string>
+    <string name="online_entries">Online-Einträge</string>
+    <string name="trips">Reisen</string>
+    <string name="online">Online</string>
+    <string name="add_new_trip">Neue Reise hinzufügen</string>
+    <string name="trip_name">Reisename</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="confirm_deletion">Löschen bestätigen</string>
+    <string name="delete_trip">Möchtest du wirklich "%s" löschen?</string>
+    <string name="yes_delete">Ja, löschen</string>
+    <string name="confirm_entry_deletion">Möchtest du wirklich "%s" löschen?</string>
+    <string name="new_entry">Neuer Eintrag</string>
+    <string name="pick_images">Bilder auswählen</string>
+    <string name="selected_images">Ausgewählte Bilder:</string>
+    <string name="welcome">Willkommen bei MyTravelBook!</string>
+    <string name="welcome_message">Erstelle Reisen, füge Einträge hinzu und veröffentliche sie in deinem Reisetagebuch.</string>
+    <string name="get_started">Los geht\'s</string>
+    <string name="published">"Veröffentlicht: "</string>
+    <string name="delete_image_question">Sind Sie sicher, dass Sie das Bild entfernen möchten?</string>
+</resources>
